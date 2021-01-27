@@ -754,7 +754,7 @@ button {
   transition-timing-function: var(--timing-function);
 }
 
-.subscribe-input:placeholder {
+.subscribe-input::placeholder {
   font-size: 16px;
   line-height: 1.25;
   letter-spacing: 0.03em;
